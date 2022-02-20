@@ -20,6 +20,7 @@ _ANALYSIS OF CHALLENGES:_
  _RESULTS:_
   
   Two key findings I nopticed when looking at the Theatre Outcomes Based on Launch Date are: 
+   
      1). The most successful play will debut between the months of April-July.
      2). The largest percentage of failed plays ranges from October-January.
 
