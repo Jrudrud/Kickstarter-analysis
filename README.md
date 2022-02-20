@@ -21,7 +21,11 @@ _ANALYSIS OF CHALLENGES:_
   
   Two key findings I nopticed when looking at the Theatre Outcomes Based on Launch Date are: 
    
-     1). The most successful play will debut between the months of April-July.
+     1). Most successful playS will debut between the months of April-July.
      2). The largest percentage of failed plays ranges from October-January.
+     
+   One key finding I found while looking through Outcomes Based on Goals:
+   
+      1). The most successful campaigns will range from $35,000-$45,0000.
 
   
