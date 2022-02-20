@@ -24,8 +24,16 @@ _ANALYSIS OF CHALLENGES:_
      1). Most successful playS will debut between the months of April-July.
      2). The largest percentage of failed plays ranges from October-January.
      
+    
+ **Theater Outcome Based On Launch Date:****
+  ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/99840803/154824805-89fad27d-6574-49b6-9cc2-440bc8d9ad9e.png)
+     
    One key finding I found while looking through Outcomes Based on Goals:
    
       1). The most successful campaigns will range from $35,000-$45,0000.
+      
+      
+ **Outcomes Based on Goals:**
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/99840803/154824843-8f188c07-2b13-4f10-9f29-f04e02b6cc2a.png)
 
   
