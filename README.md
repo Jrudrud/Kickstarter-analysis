@@ -1,4 +1,4 @@
-_**# An Analysis of Kickstarter Campaigns.**_
+_**An Analysis of Kickstarter Campaigns.**_
 
 _OBJECTIVE:_
 
@@ -30,4 +30,5 @@ One key finding I found while looking through Outcomes Based on Goals:
  **Outcomes Based on Goals:**
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/99840803/154824843-8f188c07-2b13-4f10-9f29-f04e02b6cc2a.png)
 
+While the dataset is very in depth, there are some limitations. Future additions to the dataset should include plays specifics (i.e. content, length, etc..). Graphs can be made to help visually display the data by separating the future datapoints into genres (e.g. Comedy, Tragedy, Love-story, and Thriller).
   
