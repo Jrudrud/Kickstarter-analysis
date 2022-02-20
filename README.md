@@ -7,8 +7,7 @@ _OBJECTIVE:_
 
 _ANALYSIS OF CHALLENGES:_
 
-  Trying to make sense of this data was quite challenging. I wanted to give my client accurate information, so I started by parsing through all of the different Kickstarter campaigns. 
-  
+ The most challenging part of analyzing this data was developing the code to figure out the Outcomes Based on Goals. I would caution future analysts to fikter the data properly on the main Kickstarter Sheet to ensure accurate numbers/percentages for successful/failed/canceled campaigns. 
   
  _RESULTS:_
   
